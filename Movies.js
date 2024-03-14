@@ -39,77 +39,77 @@ const movie1 = new MovieSchema({
 })
 
 const movie2 = new MovieSchema({
-    title: 'The Lord of the Rings: The Return of the King',
-    releaseDate: 2003,
-    genre: 'Fantasy',
+    title: 'Up',
+    releaseDate: 2009,
+    genre: 'Adventure',
     actors: [{
-        actorName: 'Elijah Wood',
-        characterName: 'Frodo Baggins'
+        actorName: 'Edward Asner',
+        characterName: 'Carl Fredricksen'
     },
     {
-        actorName: 'Sean Astin',
-        characterName: 'Samwise Gamgee'
+        actorName: 'Bob Peterson',
+        characterName: 'Dug'
     },
     {
-        actorName: 'Ian McKellen',
-        characterName: 'Gandalf'
+        actorName: 'Jordan Nagai',
+        characterName: 'Russell'
     }
 ]
 })
 
 const movie3 = new MovieSchema({
-    title: 'The Lord of the Rings: The Return of the King',
-    releaseDate: 2003,
+    title: "Harry Potter and the Sorcerer's Stone",
+    releaseDate: 2001,
     genre: 'Fantasy',
     actors: [{
-        actorName: 'Elijah Wood',
-        characterName: 'Frodo Baggins'
+        actorName: 'Daniel Radcliffe',
+        characterName: 'Harry Potter'
     },
     {
-        actorName: 'Sean Astin',
-        characterName: 'Samwise Gamgee'
+        actorName: 'Emma Watson',
+        characterName: 'Hermoine Granger'
     },
     {
-        actorName: 'Ian McKellen',
-        characterName: 'Gandalf'
+        actorName: 'Rupert Grint',
+        characterName: 'Ron Weasley'
     }
 ]
 })
 
 const movie4 = new MovieSchema({
-    title: 'The Lord of the Rings: The Return of the King',
-    releaseDate: 2003,
-    genre: 'Fantasy',
+    title: 'Rogue One: A Star Wars Story',
+    releaseDate: 2016,
+    genre: 'Science Fiction',
     actors: [{
-        actorName: 'Elijah Wood',
-        characterName: 'Frodo Baggins'
+        actorName: 'Felicity Jones',
+        characterName: 'Jyn Erso'
     },
     {
-        actorName: 'Sean Astin',
-        characterName: 'Samwise Gamgee'
+        actorName: 'Diego Luna',
+        characterName: 'Cassian Andor'
     },
     {
-        actorName: 'Ian McKellen',
-        characterName: 'Gandalf'
+        actorName: 'Donnie Yen',
+        characterName: 'Chirrut Imwe'
     }
 ]
 })
 
 const movie5 = new MovieSchema({
-    title: 'The Lord of the Rings: The Return of the King',
-    releaseDate: 2003,
-    genre: 'Fantasy',
+    title: 'Fast & Furious Presents: Hobbs & Shaw',
+    releaseDate: 2019,
+    genre: 'Action',
     actors: [{
-        actorName: 'Elijah Wood',
-        characterName: 'Frodo Baggins'
+        actorName: 'Dwayne Johnson',
+        characterName: 'Luke Hobbs'
     },
     {
-        actorName: 'Sean Astin',
-        characterName: 'Samwise Gamgee'
+        actorName: 'Jason Statham',
+        characterName: 'Deckard Shaw'
     },
     {
-        actorName: 'Ian McKellen',
-        characterName: 'Gandalf'
+        actorName: 'Idris Elba',
+        characterName: 'Brixton Lore'
     }
 ]
 })
