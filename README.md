@@ -74,4 +74,7 @@ Create a collection in MongoDB to hold information about movies
 
 TO RUN IN POSTMAN:
 
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/32409501-d949497f-02e4-46ec-991e-793a17a9864f?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D32409501-d949497f-02e4-46ec-991e-793a17a9864f%26entityType%3Dcollection%26workspaceId%3D46bb3b59-a399-45a1-a1ef-00ee0fb90496)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/32409501-d949497f-02e4-46ec-991e-793a17a9864f?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D32409501-d949497f-02e4-46ec-991e-793a17a9864f%26entityType%3Dcollection%26workspaceId%3D46bb3b59-a399-45a1-a1ef-00ee0fb90496#?env%5BEmily-Assignment3%5D=W3sia2V5Ijoiand0IiwidmFsdWUiOiJKV1QgZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBaQ0k2SWpZMVpqbG1OalE0TkRFMU0yVTRNREEwTUdReFlqUmlOeUlzSW5WelpYSnVZVzFsSWpvaWRHVnpkSFZ6WlhJaUxDSnBZWFFpT2pFM01UQTRPREF6TkRaOS53ck4tcS1VOWxaaDNQeUg5YWhGNUZ5UlZ2OHk4NGlPM0xqVmdsNW1UVWJJIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6ImFueSIsInNlc3Npb25WYWx1ZSI6IkpXVC4uLiIsInNlc3Npb25JbmRleCI6MH0seyJrZXkiOiJKV1QiLCJ2YWx1ZSI6IiIsImVuYWJsZWQiOnRydWUsInR5cGUiOiJkZWZhdWx0Iiwic2Vzc2lvblZhbHVlIjoiSldULi4uIiwic2Vzc2lvbkluZGV4IjoxfV0=)
+
+static site: https://csc3916-react-emilygroza.onrender.com/
+web service: https://csc3916-assignment3-emilygroza.onrender.com/ 
